@@ -6,6 +6,7 @@ to the Github game.
 We hope to do better in 2017 and beyond.
 
 Here is what each file contains:
+
 | File | Description |
 | ---- | ----------- |
 | file no. 1 | This has a little this and a little that
